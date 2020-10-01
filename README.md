@@ -1,1 +1,1 @@
-# firefox-excersise-site
+# firefox-excercise-site
